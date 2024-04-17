@@ -1,0 +1,15 @@
+1.
+zdania w prologu
+ile klauzul regul fakty definicji relacji 
+
+2.
+podany program i cel i do tego narysowac drzewo
+
+3.
+uzgadnianie list, jakie podstawienie albo sie nie da i uzasadnic
+
+4.5
+listy rekurencyjne predykad maplist cos tam
+
+6.
+jakie wyrazenia sa stale zmienne termin zlozone i niepoprawne w prologu
